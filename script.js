@@ -1,0 +1,3 @@
+let currentYear = new Date().getFullYear();
+
+console.log(currentYear);
